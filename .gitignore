@@ -52,7 +52,7 @@ atlassian-ide-plugin.xml
 # Distribution / packaging
 .Python build/
 develop-eggs/
-dist/
+../front/nuxt_front/node_modules/mlly/dist/
 downloads/
 eggs/
 .eggs/
